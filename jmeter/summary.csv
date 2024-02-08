@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+https://dev.klaarhq.com/,100,240,0,1240,256.02,0.000%,9.93739,50.69,4.81,5223.5
+Test,100,240,0,1240,256.02,0.000%,9.81162,50.05,4.75,5223.5
+TOTAL,200,240,0,1240,256.02,0.000%,19.62323,100.10,9.51,5223.5

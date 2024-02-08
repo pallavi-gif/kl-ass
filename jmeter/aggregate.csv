@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://dev.klaarhq.com/,100,240,153,419,966,1239,123,1240,0.000%,9.93739,50.69,4.81
+Test,100,240,153,419,966,1239,123,1240,0.000%,9.81162,50.05,4.75
+TOTAL,200,240,153,419,966,1239,123,1240,0.000%,19.62323,100.10,9.51
